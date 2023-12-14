@@ -1,0 +1,13 @@
+Package: DataCleaning
+Type: Package
+Title: Some function for cleaning the Iowa Houses Data
+Version: 0.1.0
+Author: James Tapp
+Maintainer: The package maintainer <James.Tapp@academytrainee.com>
+Description: t11, t21 and FeatureScaling functions and help documentation
+    to help clean the Neighborhoods, KitchenQuality and ExteriorQuality
+    fields and normalise numeric fields.
+License: MIT Liscense
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
